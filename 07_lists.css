@@ -1,0 +1,47 @@
+.list {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.list li {
+    margin-bottom: 8px;
+    border-bottom: 2px solid blueviolet;
+}
+.table {
+    width: 100%;
+}
+.table td {
+    text-align: center;
+    padding-bottom: 5px;
+}
+.table td:hover {
+    background: #eee;
+}
+.table tr:nth-child(even)/* odd */{
+    background: #ddd;
+}
+.table td:nth-child(2),.table td:nth-child(4) {
+    background: #fffeee;
+}
+.navbar {
+    background: lightcoral;
+    /* padding: 10px 20px; */
+    margin-bottom: 10px;
+}
+.navbar ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    padding: 0 20px;
+}
+.navbar ul li {
+    margin-right: 10px;
+    padding: 10px;
+}
+.navbar ul li:hover {
+    background: #ea6767;
+}
+.navbar ul li:last-child /* first-child */ {
+    margin-right: 0;
+}

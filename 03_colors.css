@@ -1,0 +1,16 @@
+/* Цвета */
+.color-1 {
+    color: chartreuse;
+}
+.color-2 {
+    color: #1e90ff;
+}
+.color-3 {
+    color: #0ff;
+}
+.color-4 {
+    color: rgb(0,0,0);
+}
+.color-5 {
+    color: rgba(0,0,255,0.5);
+}

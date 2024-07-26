@@ -1,0 +1,14 @@
+/* Fonts.css */
+body {
+    /* font-family:Verdana, Geneva, Tahoma, sans-serif; */
+    /* Goole fonts */
+    font-size: 15px;
+    line-height: 3em;
+    font-weight: bold /* или числовые значения*/;
+    text-decoration: none /* underline, line-through */;
+    font-style: italic;
+    /* letter-spacing: ; */
+    /* word-spacing: ; */
+
+    /* font: (для объединения) */
+}
